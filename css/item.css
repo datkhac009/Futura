@@ -1,0 +1,11 @@
+.owl-carousel{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    gap: 23px;
+    justify-items: center;
+}
+.owl-carousel .item{
+
+    background-color: blueviolet;
+    padding: 50%;
+}
